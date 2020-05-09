@@ -9,8 +9,10 @@ Before you begin, ensure you have met the following requirements:
 
 * Internet Connection
 * Python 3.6+
-* Dependencies
+
 ```bash
+Dependencies
+
 pip3 install twitter_scraper
 pip3 install google-cloud
 pip3 install google-cloud-vision
@@ -25,6 +27,7 @@ git clone https://github.com/rohitkhirapate/twitter_scraper.git
 cd twitter-scraper
 python twitter_scraper.py -p <twitter_handle>
 ```
+To create your own client-secrets.json file, create Google Cloud Console account. Follow https://console.developers.google.com
 
 ## Credits
 
