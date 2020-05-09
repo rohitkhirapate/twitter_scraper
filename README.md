@@ -15,11 +15,12 @@ pip3 install twitter_scraper
 pip3 install google-cloud
 pip3 install google-cloud-vision
 
+```
 ## Using twitter-scraper
 
-Git Clone the script 
-Linux and macOS:
 ```bash
+Linux and macOS:
+
 git clone https://github.com/rohitkhirapate/twitter_scraper.git
 cd twitter-scraper
 python twitter_scraper.py -p <twitter_handle>
