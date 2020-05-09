@@ -25,7 +25,7 @@ Linux and macOS:
 
 git clone https://github.com/rohitkhirapate/twitter_scraper.git
 cd twitter-scraper
-python twitter_scraper.py -p <twitter_handle>
+python twitter_fetch.py -p <twitter_handle>
 ```
 To create your own client-secrets.json file, create Google Cloud Console account. Follow https://console.developers.google.com
 
