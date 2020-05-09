@@ -16,7 +16,7 @@ pip3 install google-cloud
 pip3 install google-cloud-vision
 
 ```
-## Using twitter-scraper
+## Using twitter_scraper
 
 ```bash
 Linux and macOS:
